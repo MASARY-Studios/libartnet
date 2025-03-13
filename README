@@ -1,3 +1,11 @@
+run:
+
+```
+autoreconf -fi
+./configure
+sudo make install
+```
+
 
 Libartnet is an implementation of the ArtNet protocol. ArtNet allows the
 transmission of DMX and related data over IP networks.
